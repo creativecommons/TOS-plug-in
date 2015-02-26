@@ -6,6 +6,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Diane Peters](https://github.com/peterspdx)  |
-| Approvers  | ? |
+| Approvers  | [Jane Park](https://github.com/jane@cc) |
 | Contributors | [Sarah Pearson](https://github.com/sarahpearson) |
 | Informed | Add yourselves here |
