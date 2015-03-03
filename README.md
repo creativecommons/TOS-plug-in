@@ -6,6 +6,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Diane Peters](https://github.com/peterspdx)  |
-| Approvers  | [Jane Park](https://github.com/jane@cc) (for platform); [Diane Peters](https://github.com/peterspdx) (for legal)  |
-| Contributors | [Matt Lee] (https://github.com/mattl); [Sarah Pearson](https://github.com/sarahpearson); [Jane Park] (https://github.com/jane@cc) |
+| Accountable  | [Jane Park](https://github.com/jane@cc) (for platform); [Diane Peters](https://github.com/peterspdx) (for legal)  |
+| Consulted | [Matt Lee] (https://github.com/mattl); [Sarah Pearson](https://github.com/sarahpearson); [Jane Park] (https://github.com/jane@cc) |
 | Informed | Add yourselves here |
